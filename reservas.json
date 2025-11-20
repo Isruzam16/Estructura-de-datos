@@ -1,0 +1,14 @@
+[
+  {
+    "nombre_huesped": "Alejandro Chaguay",
+    "noches": 3,
+    "tarifa_noche": 100.0,
+    "total_pagar": 300.0
+  },
+  {
+    "nombre_huesped": "Isaac Zambrano",
+    "noches": 1,
+    "tarifa_noche": 20.0,
+    "total_pagar": 20.0
+  }
+]
